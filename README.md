@@ -52,23 +52,6 @@ Atualmente busco oportunidades como estagiário ou desenvolvedor júnior nas ár
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-*(Você pode atualizar conforme for publicando mais repositórios)*
-
-### 📱 Aplicativos Mobile (Expo / React Native)
-- Em breve…
-
-### 💻 Aplicações Web
-- Em breve…
-
-### 🏆 Projetos premiados
-- Desafio Liga Jovem Sebrae  
-- FETEPS  
-- OBT  
-
----
-
 ## 🌐 Contato
 
 📧 **E-mail:** mathquaresma@gmail.com  
