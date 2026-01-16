@@ -80,24 +80,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, formado pela **
 
 ---
 
-## 🚀 Áreas de Interesse
-
-```javascript
-const matheus = {
-    code: ["JavaScript", "TypeScript", "PHP", "C#", "Python"],
-    technologies: {
-        frontEnd: ["React", "React Native", "HTML", "CSS"],
-        backEnd: ["PHP", "C#", "Node.js"],
-        databases: ["MySQL"],
-        mobile: ["React Native"]
-    },
-    interests: ["Inteligência Artificial", "Web Development", "Mobile Apps", "Data Analysis"],
-    currentFocus: "Criar soluções inovadoras e escaláveis"
-};
-```
-
----
-
 ## 📫 Vamos Conversar?
 
 Estou sempre aberto a novos projetos, colaborações e oportunidades!
