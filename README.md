@@ -2,9 +2,8 @@
   
 # 👨‍💻 Matheus Quaresma
 
-### Técnico em Desenvolvimento de Sistemas | Full Stack Developer
+ Full Stack Developer
 
-*Transformando ideias em código, dados em insights e desafios em soluções*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-quaresma-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathquaresma@gmail.com)
@@ -14,8 +13,7 @@
 ---
 
 ## 🎯 Sobre Mim
-
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, formado pela **Etec Taboão da Serra**. Especializado em criar soluções escaláveis e eficientes, com experiência em todo o ciclo de desenvolvimento de software.
+ Cursando Engenharia da Computação pelo Centro Universitário SENAC SP, formado como Técnico em Desenvolvimento de Sistemas pela ETEC de Taboão da Serra. Atuo na construção completa no desenvolvimento de um software, documentação, protótipo, arquiteutra, modelagem de dados, análise de requisitos, análise de infraestrutura, diagramação, construção frontend, backend, intrgração de APIS, criação, consulta de banco de dados.
 
 🔭 **Foco atual:** Desenvolvimento Web, Mobile e Integração de APIs  
 🌱 **Aprendendo:** Arquitetura de Software e Práticas Avançadas de IA  
